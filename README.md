@@ -34,6 +34,58 @@ The dashboard enables healthcare organizations to:
 - Support executive decision making
 - Reduce manual reporting effort
 
+
+---
+# 📸 Dashboard Gallery
+
+### Executive Overview Dashboard
+
+<p align="center">
+  <img src="Images/ExecutiveOverview.png"
+       alt="Power BI Emergency Department Executive Overview Dashboard showing real-time ED KPIs, patient arrivals, occupancy, throughput, wait times, and operational performance"
+       width="100%">
+</p>
+
+---
+
+### Patient Flow & Throughput Dashboard
+
+<p align="center">
+  <img src="Images/PatientFlowThroughput.png"
+       alt="Power BI Emergency Department Patient Flow Dashboard displaying door-to-provider time, patient journey, triage performance, throughput metrics, boarding time, and length of stay"
+       width="100%">
+</p>
+
+---
+
+### Clinical Quality & Patient Safety Dashboard
+
+<p align="center">
+  <img src="Images/ClinicalQualityPatientSafety.png"
+       alt="Power BI Clinical Quality Dashboard presenting sepsis compliance, stroke measures, STEMI performance, patient safety indicators, medication errors, and quality KPIs"
+       width="100%">
+</p>
+
+---
+
+### Operations & Resource Utilization Dashboard
+
+<p align="center">
+  <img src="Images/OperationsResourceUtilization.png"
+       alt="Power BI Emergency Department Operations Dashboard showing staffing utilization, bed occupancy, diagnostic services, imaging utilization, laboratory workload, and operational efficiency"
+       width="100%">
+</p>
+
+---
+
+### Patient Experience & Outcomes Dashboard
+
+<p align="center">
+  <img src="Images/PatientExperienceOutcomes.png"
+       alt="Power BI Patient Experience Dashboard featuring patient satisfaction, wait time ratings, discharge outcomes, return visits, complaints, and patient experience analytics"
+       width="100%">
+</p>
+
 ---
 
 # 📊 Dashboard Modules
