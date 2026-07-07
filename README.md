@@ -41,7 +41,7 @@ The dashboard enables healthcare organizations to:
 ### Executive Overview Dashboard
 
 <p align="center">
-  <img src="Images/ExecutiveOverview.png"
+  <img src="Screenshots/ExecutiveOverview.png"
        alt="Power BI Emergency Department Executive Overview Dashboard showing real-time ED KPIs, patient arrivals, occupancy, throughput, wait times, and operational performance"
        width="100%">
 </p>
@@ -51,7 +51,7 @@ The dashboard enables healthcare organizations to:
 ### Patient Flow & Throughput Dashboard
 
 <p align="center">
-  <img src="Images/PatientFlowThroughput.png"
+  <img src="Screenshots/PatientFlowThroughput.png"
        alt="Power BI Emergency Department Patient Flow Dashboard displaying door-to-provider time, patient journey, triage performance, throughput metrics, boarding time, and length of stay"
        width="100%">
 </p>
@@ -61,7 +61,7 @@ The dashboard enables healthcare organizations to:
 ### Clinical Quality & Patient Safety Dashboard
 
 <p align="center">
-  <img src="Images/ClinicalQualityPatientSafety.png"
+  <img src="Screenshots/ClinicalQualityPatientSafety.png"
        alt="Power BI Clinical Quality Dashboard presenting sepsis compliance, stroke measures, STEMI performance, patient safety indicators, medication errors, and quality KPIs"
        width="100%">
 </p>
@@ -71,7 +71,7 @@ The dashboard enables healthcare organizations to:
 ### Operations & Resource Utilization Dashboard
 
 <p align="center">
-  <img src="Images/OperationsResourceUtilization.png"
+  <img src="Screenshots/OperationsResourceUtilization.png"
        alt="Power BI Emergency Department Operations Dashboard showing staffing utilization, bed occupancy, diagnostic services, imaging utilization, laboratory workload, and operational efficiency"
        width="100%">
 </p>
@@ -81,7 +81,7 @@ The dashboard enables healthcare organizations to:
 ### Patient Experience & Outcomes Dashboard
 
 <p align="center">
-  <img src="Images/PatientExperienceOutcomes.png"
+  <img src="Screenshots/PatientExperienceOutcomes.png"
        alt="Power BI Patient Experience Dashboard featuring patient satisfaction, wait time ratings, discharge outcomes, return visits, complaints, and patient experience analytics"
        width="100%">
 </p>
@@ -349,15 +349,14 @@ This solution enables hospitals to:
 ```
 Enterprise-Emergency-Department-Dashboard
 ├── Screenshots/
-│   ├── Executive Overview.png
-│   ├── Patient Flow.png
-│   ├── Clinical Performance.png
-│   ├── Diagnostics.png
-│   └── Patient Experience.png
+│   ├── ExecutiveOverview.png
+│   ├── PatientFlowThroughput.png
+│   ├── ClinicalQualityPatientSafety.png
+│   ├── PatientExperienceOutcomes.png
+│   └── OperationsResourceUtilization.png
 ├── LICENSE
 └── README.md
 ```
-
 ---
 
 # 🚀 Future Enhancements
